@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "title": "interlocuteur",
+      "fieldType": "input",
+      "content": "Can",
+      "description": "hasatnın adını buraya"
+    },
+    {
+      "title": "Firma",
+      "fieldType": "input",
+      "content": "Sanofi",
+      "description": "Muhatap alınan kişinin başvurduğu firma"
+    },
+    {
+      "title": "TEL",
+      "fieldType": "input",
+      "content": "905418109273",
+      "description": "Muhatap alınan kişinin varsa telefon numarası"
+    },
+    {
+      "title": "E-MAIL",
+      "fieldType": "input",
+      "content": "test@test.com",
+      "description": "Muhatap alınan kişinin varsa email adresi"
+    },
+    {
+      "title": "Date",
+      "fieldType": "input",
+      "content": "02/03/2001",
+      "description": "Muhatap alınan kişinin tarihi"
+    },
+    {
+      "title": "Herure",
+      "fieldType": "input",
+      "content": "3",
+      "description": "Muhatap alınan kişinin formu doldurduğu saat"
+    },
+    {
+      "title": "Message",
+      "fieldType": "input",
+      "content": "Bilgiler doldurulmuştur",
+      "description": "Muhatap alınan kişinin form bilgisi"
+    }
+    
+  ],
+  "status": "success",
+  "description": ""
+}
